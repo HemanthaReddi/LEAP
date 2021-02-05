@@ -1,0 +1,13 @@
+{
+	"userList": {
+		"user1": {
+			"name": "Hemantha Reddi",
+			"designation": "Software Engineer",
+			"emailId": "March 18,1852",
+			"challengesPosted": "14",
+			"challengesTaken": "10",
+			"challengesCompleted": "7",
+			"RewardPoints":"70"
+		}
+	}
+}
